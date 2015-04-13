@@ -1,0 +1,38 @@
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th class="col-md-5">
+                    Name
+                </th>
+                <th class="col-md-5">
+                    City
+                </th>
+                <th class="col-md-2">
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="customer in customers">
+                <td class="col-md-6">
+                    <span>{{customer.name}}</span>
+                </td>
+                <td class="col-md-6">
+                    <span>{{customer.city}}</span>
+                </td>
+                <td class="col-md-2">
+                    <button type="button" ng-click="removeCustomer($index)">
+                        <i class="glyphicon glyphicon-remove "></i>
+                    </button>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+        <tr>
+        <td></td>
+        <td><a href="./view2" class="btn btn-primary">Add new Customer</a></td>
+        <td></td>
+        </tr>
+        </tfoot>
+    </table>
+</div>

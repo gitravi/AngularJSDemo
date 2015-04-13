@@ -1,0 +1,6 @@
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\bin\AngularJsDemoApp.dll
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\bin\AngularJsDemoApp.pdb
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\obj\Debug\AngularJsDemoApp.dll
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\obj\Debug\AngularJsDemoApp.pdb
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\obj\Debug\AngularJsDemoApp.csprojResolveAssemblyReference.cache
+C:\Sources\AngularJsDemo\AngularJsDemoApp\AngularJsDemoApp\bin\AngularJsDemoApp.dll.config
